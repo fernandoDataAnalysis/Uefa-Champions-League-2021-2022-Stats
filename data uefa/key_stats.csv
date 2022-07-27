@@ -1,0 +1,748 @@
+player_name,club,position,minutes_played,match_played,goals,assists,distance_covered,country
+Martínez,Ajax,Defender,720,8,0,1,83.3,Netherlands
+Gravenberch,Ajax,Midfielder,703,8,0,1,89.1,Netherlands
+Haller,Ajax,Forward,668,8,11,1,82.2,Netherlands
+Mazraoui,Ajax,Defender,661,8,0,2,81.5,Netherlands
+Tadić,Ajax,Forward,630,7,2,2,78.9,Netherlands
+Berghuis,Ajax,Forward,628,8,3,1,79.8,Netherlands
+Antony,Ajax,Forward,577,7,2,5,65.1,Netherlands
+Blind,Ajax,Defender,572,8,1,1,70.9,Netherlands
+J. Timber,Ajax,Midfielder,570,8,0,0,64.9,Netherlands
+Álvarez,Ajax,Midfielder,558,7,0,0,73,Netherlands
+Pasveer,Ajax,Goalkeeper,540,6,0,0,32.7,Netherlands
+Klaassen,Ajax,Midfielder,232,7,1,1,33.6,Netherlands
+Neres,Ajax,Forward,203,5,1,0,24,Netherlands
+Onana,Ajax,Goalkeeper,180,2,0,0,8.4,Netherlands
+Schuurs,Ajax,Defender,146,3,0,1,14.4,Netherlands
+Tagliafico,Ajax,Defender,139,3,0,1,16.6,Netherlands
+Rensch,Ajax,Defender,71,5,0,0,13.8,Netherlands
+Daramy,Ajax,Forward,52,2,0,0,6.4,Netherlands
+Taylor,Ajax,Midfielder,38,3,0,0,6.6,Netherlands
+Kudus,Ajax,Midfielder,24,2,0,0,3.5,Netherlands
+Musso,Atalanta,Goalkeeper,540,6,0,0,32.7,Italy
+Freuler,Atalanta,Midfielder,526,6,1,1,71.6,Italy
+De Roon,Atalanta,Midfielder,484,6,0,0,62.1,Italy
+Zapata,Atalanta,Forward,464,6,3,3,50.1,Italy
+Palomino,Atalanta,Defender,450,5,1,1,50.5,Italy
+Mæhle,Atalanta,Defender,435,5,0,1,56.4,Italy
+Zappacosta,Atalanta,Defender,405,6,0,1,51,Italy
+Demiral,Atalanta,Defender,370,6,1,0,42.2,Italy
+Tolói,Atalanta,Defender,360,4,0,0,45.2,Italy
+Malinovskyi,Atalanta,Midfielder,301,5,1,0,38.5,Italy
+Djimsiti,Atalanta,Defender,260,5,0,0,31.5,Italy
+Iličić,Atalanta,Midfielder,249,4,1,1,29.3,Italy
+Pašalić,Atalanta,Midfielder,220,5,1,1,30,Italy
+Pessina,Atalanta,Midfielder,211,4,1,0,29.4,Italy
+Koopmeiners,Atalanta,Midfielder,210,5,0,1,28.9,Italy
+Muriel,Atalanta,Forward,130,5,1,0,16.9,Italy
+Gosens,Atalanta,Midfielder,101,2,1,0,12.1,Italy
+Hateboer,Atalanta,Defender,90,1,0,0,11.8,Italy
+Pezzella,Atalanta,Defender,56,3,0,0,8.1,Italy
+Lovato,Atalanta,Defender,45,1,0,0,5.3,Italy
+Al. Miranchuk,Atalanta,Forward,33,2,0,1,4.8,Italy
+Oblak,Atlético,Goalkeeper,900,10,0,0,52.7,Spain
+Marcos Llorente,Atlético,Midfielder,700,9,0,0,83.6,Spain
+Koke,Atlético,Midfielder,665,9,0,1,91.2,Spain
+Giménez,Atlético,Defender,585,7,0,0,63.3,Spain
+Kondogbia,Atlético,Midfielder,578,9,0,0,71.3,Spain
+De Paul,Atlético,Midfielder,577,9,1,0,74.5,Spain
+João Félix,Atlético,Forward,573,8,1,1,68.5,Spain
+Griezmann,Atlético,Forward,518,9,4,2,64.3,Spain
+Renan Lodi,Atlético,Defender,478,10,1,2,61.7,Spain
+Carrasco,Atlético,Forward,472,7,0,0,60.1,Spain
+Felipe,Atlético,Defender,472,7,0,0,51.4,Spain
+Savić,Atlético,Defender,450,5,0,0,51.6,Spain
+Hermoso,Atlético,Defender,425,6,0,0,47.7,Spain
+Correa,Atlético,Forward,401,10,1,0,49.6,Spain
+Lemar,Atlético,Midfielder,377,8,0,1,48.9,Spain
+Luis Suárez,Atlético,Forward,347,7,1,0,38.7,Spain
+Vrsaljko,Atlético,Defender,304,5,0,0,36.9,Spain
+Herrera,Atlético,Midfielder,226,4,0,0,30.1,Spain
+Trippier,Atlético,Defender,220,3,0,0,27,Spain
+Matheus Cunha,Atlético,Forward,142,5,0,0,18.3,Spain
+Javi Serrano,Atlético,Midfielder,15,1,0,0,2.4,Spain
+Ter Stegen,Barcelona,Goalkeeper,540,6,0,0,29,Spain
+Depay,Barcelona,Forward,525,6,0,0,64.4,Spain
+F. de Jong,Barcelona,Midfielder,523,6,0,0,69,Spain
+Sergio Busquets,Barcelona,Midfielder,487,6,0,0,63.9,Spain
+Gavi,Barcelona,Midfielder,398,6,0,0,54.1,Spain
+Piqué,Barcelona,Defender,393,5,1,0,44,Spain
+Jordi Alba,Barcelona,Defender,375,5,0,1,45.8,Spain
+Ronald Araújo,Barcelona,Defender,367,5,0,0,36.4,Spain
+Lenglet,Barcelona,Defender,345,4,0,0,40.4,Spain
+Nico González,Barcelona,Midfielder,247,4,0,0,33.6,Spain
+Eric García,Barcelona,Defender,247,4,0,0,29.7,Spain
+Dest,Barcelona,Defender,230,4,0,0,30.2,Spain
+Mingueza,Barcelona,Defender,219,5,0,0,27.2,Spain
+L. de Jong,Barcelona,Forward,179,3,0,0,22.3,Spain
+Sergi Roberto,Barcelona,Midfielder,169,3,0,0,22,Spain
+Pedri,Barcelona,Midfielder,158,2,0,0,20.7,Spain
+Fati,Barcelona,Forward,154,3,1,0,19.7,Spain
+Dembélé,Barcelona,Forward,122,3,0,0,14.8,Spain
+Coutinho,Barcelona,Forward,109,4,0,0,14.3,Spain
+Demir,Barcelona,Midfielder,101,3,0,0,12.8,Spain
+Balde,Barcelona,Defender,19,2,0,0,3.7,Spain
+Ricard Puig,Barcelona,Midfielder,17,1,0,0,2.4,Spain
+Agüero,Barcelona,Forward,15,1,0,0,1.9,Spain
+Lewandowski,Bayern,Forward,876,10,13,3,99.7,Germany
+Neuer,Bayern,Goalkeeper,810,9,0,1,51.2,Germany
+Sané,Bayern,Midfielder,798,10,6,6,94,Germany
+Müller,Bayern,Forward,778,10,4,3,98.5,Germany
+Pavard,Bayern,Defender,764,10,0,1,96.7,Germany
+Kimmich,Bayern,Midfielder,702,8,0,0,96.4,Germany
+Upamecano,Bayern,Defender,660,8,0,0,82.3,Germany
+Coman,Bayern,Forward,632,9,2,3,76.3,Germany
+L. Hernández,Bayern,Defender,572,8,0,0,69.4,Germany
+Süle,Bayern,Defender,515,7,0,0,61.4,Germany
+Davies,Bayern,Midfielder,477,7,0,2,61.4,Germany
+Goretzka,Bayern,Midfielder,466,6,0,0,59.3,Germany
+Musiala,Bayern,Midfielder,448,8,1,1,59,Germany
+Gnabry,Bayern,Forward,391,8,3,2,46.7,Germany
+Tolisso,Bayern,Midfielder,234,4,0,1,31.3,Germany
+Nianzou,Bayern,Midfielder,212,4,0,0,25.4,Germany
+Sabitzer,Bayern,Midfielder,133,5,0,0,19.6,Germany
+Sarr,Bayern,Defender,125,5,0,0,17.3,Germany
+Ulreich,Bayern,Goalkeeper,90,1,0,0,6.2,Germany
+Marc Roca,Bayern,Defender,78,4,0,0,11.6,Germany
+Richards,Bayern,Defender,52,4,0,0,8.5,Germany
+Choupo-Moting,Bayern,Midfielder,49,4,1,0,6.7,Germany
+Stanišić,Bayern,Defender,21,2,0,1,3.6,Germany
+Tillman,Bayern,Midfielder,18,2,0,0,3.6,Germany
+Ersin Destanoğlu,Beşiktaş,Goalkeeper,450,5,0,0,29.3,turkey
+Souza,Beşiktaş,Midfielder,442,5,0,0,55.5,turkey
+Rosier,Beşiktaş,Defender,405,5,0,0,46.8,turkey
+Batshuayi,Beşiktaş,Forward,383,5,0,0,43.5,turkey
+Larin,Beşiktaş,Forward,354,5,1,0,40.2,turkey
+Ghezzal,Beşiktaş,Midfielder,345,5,1,0,38.3,turkey
+Welinton,Beşiktaş,Defender,313,4,0,0,33,turkey
+Montero,Beşiktaş,Defender,306,4,1,0,34.6,turkey
+N'Sakala,Beşiktaş,Defender,270,3,0,0,30.1,turkey
+Kenan Karaman,Beşiktaş,Forward,264,5,0,0,33.7,turkey
+Pjanic,Beşiktaş,Midfielder,261,3,0,2,32.7,turkey
+Mehmet Topal,Beşiktaş,Midfielder,261,3,0,0,29.6,turkey
+Meraş,Beşiktaş,Defender,253,3,0,0,29.9,turkey
+Bozdoğan,Beşiktaş,Midfielder,219,4,0,0,28.3,turkey
+Necip Uysal,Beşiktaş,Midfielder,189,3,0,0,19.8,turkey
+Alex Teixeira,Beşiktaş,Midfielder,184,3,0,0,18.6,turkey
+Vida,Beşiktaş,Defender,180,2,0,0,19.1,turkey
+Hutchinson,Beşiktaş,Midfielder,156,4,0,0,19.9,turkey
+Rıdvan Yılmaz,Beşiktaş,Defender,135,2,0,0,15.3,turkey
+Salih Uçan,Beşiktaş,Midfielder,109,5,0,0,15.4,turkey
+N'Koudou,Beşiktaş,Midfielder,90,1,0,0,10.9,turkey
+Serdar Saatçı,Beşiktaş,Defender,90,1,0,0,9.5,turkey
+Günok,Beşiktaş,Goalkeeper,90,1,0,0,4.8,turkey
+Gökhan Töre,Beşiktaş,Midfielder,75,4,0,0,11.2,turkey
+Oğuzhan Özyakup,Beşiktaş,Midfielder,52,2,0,0,7.4,turkey
+Berkay Vardar,Beşiktaş,Midfielder,17,1,0,0,1.9,turkey
+Vertonghen,Benfica,Defender,900,10,0,1,97.9,portugal
+Vlachodimos,Benfica,Goalkeeper,900,10,0,0,55.4,portugal
+Grimaldo,Benfica,Defender,863,10,0,3,107.7,portugal
+Weigl,Benfica,Midfielder,810,9,0,0,112,portugal
+Otamendi,Benfica,Defender,810,9,0,0,91.2,portugal
+Gilberto,Benfica,Defender,715,9,1,0,85.7,portugal
+Rafa Silva,Benfica,Forward,704,9,1,1,85.7,portugal
+Núñez,Benfica,Forward,613,10,6,0,72.4,portugal
+Everton,Benfica,Forward,543,9,0,0,67.1,portugal
+Yaremchuk,Benfica,Forward,514,10,3,0,66.5,portugal
+João Mário,Benfica,Midfielder,493,8,0,4,66,portugal
+Gonçalo Ramos,Benfica,Forward,369,7,1,1,52.1,portugal
+Taarabt,Benfica,Midfielder,343,9,0,0,45.2,portugal
+Verissimo,Benfica,Defender,270,3,0,0,30.2,portugal
+André Almeida,Benfica,Defender,236,5,0,0,29.6,portugal
+Morato,Benfica,Defender,180,2,1,0,19.6,portugal
+Pizzi,Benfica,Midfielder,157,6,0,0,21.2,portugal
+Meite,Benfica,Midfielder,155,3,0,0,19.9,portugal
+Diogo Gonçalves,Benfica,Midfielder,131,5,0,0,18,portugal
+Lázaro,Benfica,Midfielder,114,6,0,0,15.6,portugal
+Paulo Bernardo,Benfica,Midfielder,39,5,0,0,8.3,portugal
+Radonjić,Benfica,Forward,31,1,0,0,3.9,portugal
+Seferović,Benfica,Forward,9,1,0,0,1.8,portugal
+Gil Dias,Benfica,Midfielder,1,1,0,0,0.7,portugal
+Rüdiger,Chelsea,Defender,840,9,1,0,88.4,united kingdom
+Mendy,Chelsea,Goalkeeper,840,9,0,0,57.4,united kingdom
+Thiago Silva,Chelsea,Defender,757,9,0,1,71.7,united kingdom
+Azpilicueta,Chelsea,Defender,679,9,1,1,82,united kingdom
+Havertz,Chelsea,Midfielder,672,9,3,0,86.3,united kingdom
+Christensen,Chelsea,Defender,603,8,1,1,62.6,united kingdom
+Jorginho,Chelsea,Midfielder,561,8,2,2,68.7,united kingdom
+Alonso,Chelsea,Defender,548,8,0,0,68.9,united kingdom
+Mount,Chelsea,Midfielder,538,7,1,2,60.3,united kingdom
+James,Chelsea,Defender,505,6,1,0,54.6,united kingdom
+Ziyech,Chelsea,Midfielder,446,9,1,2,53.5,united kingdom
+Kanté,Chelsea,Midfielder,427,6,0,1,52.2,united kingdom
+Kovačić,Chelsea,Midfielder,426,6,0,0,50.3,united kingdom
+Pulišić,Chelsea,Midfielder,367,7,2,1,47.3,united kingdom
+Loftus-Cheek,Chelsea,Forward,358,8,0,1,44.2,united kingdom
+Lukaku,Chelsea,Forward,320,6,2,0,31.5,united kingdom
+Hudson-Odoi,Chelsea,Midfielder,289,5,1,2,32.3,united kingdom
+Werner,Chelsea,Forward,246,5,4,2,29.8,united kingdom
+Chilwell,Chelsea,Defender,188,4,0,0,23.3,united kingdom
+Chalobah,Chelsea,Defender,175,3,1,0,20.4,united kingdom
+Saúl Ñíguez,Chelsea,Midfielder,159,5,0,0,23,united kingdom
+Sarr,Chelsea,Defender,100,2,0,0,11.9,united kingdom
+Barkley,Chelsea,Midfielder,96,3,0,0,12.7,united kingdom
+Kepa,Chelsea,Goalkeeper,90,1,0,0,5.6,united kingdom
+Vanaken,Club Brugge,Midfielder,540,6,3,1,69.4,Belgium
+Hendry,Club Brugge,Defender,540,6,0,0,61,Belgium
+Mignolet,Club Brugge,Goalkeeper,540,6,0,0,33.2,Belgium
+Lang,Club Brugge,Forward,528,6,0,1,68.9,Belgium
+Clinton Mata,Club Brugge,Defender,528,6,0,0,59.9,Belgium
+De Ketelaere,Club Brugge,Forward,500,6,0,1,58.5,Belgium
+Nsoki,Club Brugge,Defender,484,6,0,0,56.8,Belgium
+Rits,Club Brugge,Midfielder,417,6,2,0,53.9,Belgium
+Balanta,Club Brugge,Midfielder,407,5,0,0,50.7,Belgium
+Sobol,Club Brugge,Defender,331,4,0,1,39.1,Belgium
+Sowah,Club Brugge,Forward,298,5,0,0,38.4,Belgium
+Ricca,Club Brugge,Defender,164,4,0,0,21.9,Belgium
+Van Der Brempt,Club Brugge,Defender,162,5,0,0,21.5,Belgium
+Vormer,Club Brugge,Midfielder,156,4,0,1,20.9,Belgium
+Mechele,Club Brugge,Defender,131,3,0,0,16.5,Belgium
+Dost,Club Brugge,Forward,68,3,0,0,8.6,Belgium
+Sandra,Club Brugge,Midfielder,56,1,0,0,6.9,Belgium
+Mbamba-Muanda,Club Brugge,Defender,55,3,0,0,8.7,Belgium
+Wesley,Club Brugge,Forward,26,2,0,0,3.7,Belgium
+Izquierdo,Club Brugge,Forward,8,1,0,0,1.3,Belgium
+Maouassa,Club Brugge,Defender,1,1,0,0,0.2,Belgium
+Kobel,Dortmund,Goalkeeper,540,6,0,0,35.4,Germany
+Bellingham,Dortmund,Midfielder,503,6,1,3,62.3,Germany
+Reus,Dortmund,Midfielder,499,6,3,1,62.7,Germany
+Meunier,Dortmund,Defender,484,6,0,1,65.6,Germany
+Witsel,Dortmund,Midfielder,471,6,0,0,59.8,Germany
+Akanji,Dortmund,Defender,450,5,0,0,50.6,Germany
+Brandt,Dortmund,Midfielder,395,5,0,0,51.8,Germany
+Malen,Dortmund,Forward,392,6,3,0,43.7,Germany
+Hummels,Dortmund,Defender,358,5,0,0,41.2,Germany
+Dahoud,Dortmund,Midfielder,212,4,0,2,28.2,Germany
+Haaland,Dortmund,Forward,203,3,3,0,22.3,Germany
+Schulz,Dortmund,Defender,195,4,0,1,24.5,Germany
+Guerreiro,Dortmund,Defender,182,3,0,0,23.1,Germany
+Wolf,Dortmund,Midfielder,170,5,0,0,24.3,Germany
+Pongračić,Dortmund,Defender,170,5,0,0,20.6,Germany
+T. Hazard,Dortmund,Midfielder,142,3,0,0,19,Germany
+Reinier,Dortmund,Forward,126,3,0,0,16.7,Germany
+Tigges,Dortmund,Forward,100,2,0,0,13.4,Germany
+Zagadou,Dortmund,Defender,97,2,0,0,12.3,Germany
+Emre Can,Dortmund,Defender,74,2,0,0,8.4,Germany
+Passlack,Dortmund,Midfielder,60,2,0,0,7.6,Germany
+Knauff,Dortmund,Midfielder,20,3,0,0,5.1,Germany
+Moukoko,Dortmund,Forward,20,1,0,0,3.2,Germany
+Zabarnyi,Dynamo Kyiv,Defender,540,6,0,0,67.1,ukraine
+Sydorchuk,Dynamo Kyiv,Midfielder,536,6,0,0,69.1,ukraine
+Tsygankov,Dynamo Kyiv,Midfielder,490,6,0,1,65.8,ukraine
+Shaparenko,Dynamo Kyiv,Midfielder,486,6,0,0,68.7,ukraine
+Mykolenko,Dynamo Kyiv,Defender,450,5,0,0,56.4,ukraine
+Syrota,Dynamo Kyiv,Defender,450,5,0,0,54,ukraine
+Bushchan,Dynamo Kyiv,Goalkeeper,450,5,0,0,25.6,ukraine
+Buyalskiy,Dynamo Kyiv,Midfielder,436,5,0,0,58.5,ukraine
+De Pena,Dynamo Kyiv,Midfielder,375,6,0,0,49,ukraine
+Kędziora,Dynamo Kyiv,Defender,366,5,0,0,44.4,ukraine
+Garmash,Dynamo Kyiv,Midfielder,325,6,1,0,42.7,ukraine
+Tymchyk,Dynamo Kyiv,Defender,160,4,0,0,22,ukraine
+Karavaev,Dynamo Kyiv,Defender,154,6,0,0,21.6,ukraine
+Shkurin,Dynamo Kyiv,Forward,104,2,0,0,14,ukraine
+Andriyevskiy,Dynamo Kyiv,Midfielder,94,2,0,0,12.9,ukraine
+Vitinho,Dynamo Kyiv,Midfielder,93,3,0,0,13.5,ukraine
+Verbič,Dynamo Kyiv,Midfielder,91,3,0,0,13.1,ukraine
+Shabanov,Dynamo Kyiv,Defender,90,1,0,0,10.7,ukraine
+Boyko,Dynamo Kyiv,Goalkeeper,90,1,0,0,4.5,ukraine
+Supryaha,Dynamo Kyiv,Forward,81,2,0,0,10.9,ukraine
+Shepeliev,Dynamo Kyiv,Midfielder,54,2,0,0,8.7,ukraine
+Eric Ramirez,Dynamo Kyiv,Forward,16,2,0,0,2.7,ukraine
+Lednev,Dynamo Kyiv,Midfielder,9,1,0,0,2.1,ukraine
+Škriniar,Inter,Defender,720,8,1,0,85.1,Italy
+Handanovič,Inter,Goalkeeper,720,8,0,0,32,Italy
+Bastoni,Inter,Defender,666,8,0,0,76.6,Italy
+Brozović,Inter,Midfielder,635,8,1,0,89.3,Italy
+Martínez,Inter,Forward,587,8,1,0,67.4,Italy
+Džeko,Inter,Forward,541,7,3,1,64.6,Italy
+Perišić,Inter,Midfielder,531,8,0,1,65.5,Italy
+Barella,Inter,Midfielder,496,6,0,0,65.4,Italy
+De Vrij,Inter,Defender,487,6,1,0,55.4,Italy
+Dumfries,Inter,Defender,467,7,0,1,60.2,Italy
+Hakan Çalhanoğlu,Inter,Midfielder,419,6,0,0,55.2,Italy
+Vidal,Inter,Midfielder,409,7,1,2,53.2,Italy
+Dimarco,Inter,Defender,283,7,0,0,36.3,Italy
+Darmian,Inter,Defender,196,5,0,0,25.1,Italy
+Alexis Sánchez,Inter,Forward,155,6,1,1,19,Italy
+D'Ambrosio,Inter,Defender,147,3,0,0,19.2,Italy
+Vecino,Inter,Midfielder,124,4,0,0,18.9,Italy
+Correa,Inter,Forward,106,5,0,0,14.8,Italy
+Ranocchia,Inter,Defender,98,3,0,0,10.9,Italy
+Gagliardini,Inter,Midfielder,66,5,0,0,11.6,Italy
+Sensi,Inter,Midfielder,9,2,0,0,2.2,Italy
+Kolarov,Inter,Defender,5,1,0,0,1.1,Italy
+Szczęsny,Juventus,Goalkeeper,630,7,0,0,31.4,Italy
+De Ligt,Juventus,Defender,627,7,0,0,71.5,Italy
+Bonucci,Juventus,Defender,580,7,0,0,60.6,Italy
+Alex Sandro,Juventus,Defender,553,7,1,0,69,Italy
+Locatelli,Juventus,Midfielder,539,7,0,0,69.8,Italy
+Rabiot,Juventus,Midfielder,536,7,0,0,67.6,Italy
+Morata,Juventus,Forward,520,7,2,0,60.2,Italy
+Cuadrado,Juventus,Midfielder,472,7,0,0,56.2,Italy
+Danilo,Juventus,Defender,450,5,0,1,49.9,Italy
+McKennie,Juventus,Midfielder,388,6,0,0,51.9,Italy
+Bentancur,Juventus,Midfielder,382,5,0,1,48.7,Italy
+Chiesa,Juventus,Forward,336,4,2,0,37.5,Italy
+Bernardeschi,Juventus,Midfielder,292,5,0,2,36.3,Italy
+De Sciglio,Juventus,Defender,286,4,0,1,33.3,Italy
+Arthur,Juventus,Midfielder,264,6,0,0,35.2,Italy
+Dybala,Juventus,Forward,255,5,3,1,30.6,Italy
+Vlahović,Juventus,Forward,180,2,1,0,20.9,Italy
+Rugani,Juventus,Defender,177,4,0,0,21.7,Italy
+Kean,Juventus,Forward,168,6,1,0,20.6,Italy
+Perin,Juventus,Goalkeeper,90,1,0,0,4.3,Italy
+De Winter,Juventus,Defender,81,2,0,0,10.8,Italy
+Kulusevski,Juventus,Midfielder,80,5,1,0,14.3,Italy
+Ramsey,Juventus,Midfielder,14,2,0,0,3.2,Italy
+Zakaria,Juventus,Midfielder,9,1,0,0,1.8,Italy
+Chiellini,Juventus,Defender,7,1,0,0,1.3,Italy
+Luca Pellegrini,Juventus,Defender,3,1,0,0,1,Italy
+Da Graca,Juventus,Forward,1,1,0,0,0.8,Italy
+Miretti,Juventus,Midfielder,1,1,0,0,0.8,Italy
+Nkunku,Leipzig,Midfielder,531,6,7,0,62.8,germany
+Mukiele,Leipzig,Defender,484,6,1,1,57,germany
+Gulácsi,Leipzig,Goalkeeper,450,5,0,0,27.2,germany
+Angeliño,Leipzig,Defender,432,5,0,3,50.7,germany
+André Silva,Leipzig,Forward,410,6,3,2,47.2,germany
+Laimer,Leipzig,Midfielder,405,6,0,1,49.1,germany
+Forsberg,Leipzig,Forward,385,6,2,2,48.2,germany
+Klostermann,Leipzig,Defender,357,5,0,0,42.2,germany
+Gvardiol,Leipzig,Defender,334,6,0,0,41.5,germany
+Orbán,Leipzig,Defender,315,4,0,0,35.6,germany
+Simakan,Leipzig,Defender,297,4,0,0,32,germany
+Adams,Leipzig,Midfielder,292,5,0,0,38.9,germany
+Kampl,Leipzig,Midfielder,270,3,0,0,35.8,germany
+Szoboszlai,Leipzig,Midfielder,209,4,2,0,26.9,germany
+Haidara,Leipzig,Midfielder,182,4,0,0,24.4,germany
+Poulsen,Leipzig,Forward,147,4,0,1,18.8,germany
+Brobbey,Leipzig,Forward,115,5,0,0,14.3,germany
+Martínez,Leipzig,Goalkeeper,90,1,0,0,6,germany
+Olmo,Leipzig,Forward,88,2,0,1,10.9,germany
+Moriba,Leipzig,Midfielder,60,3,0,0,8.7,germany
+Henrichs,Leipzig,Defender,51,4,0,0,7.2,germany
+Novoa,Leipzig,Midfielder,24,1,0,1,3.6,germany
+Bonnah,Leipzig,Midfielder,10,1,0,0,1.6,germany
+Alisson Becker,Liverpool,Goalkeeper,1170,13,0,0,68.8,united kingdom
+Salah,Liverpool,Forward,1008,13,8,2,112,united kingdom
+Fabinho,Liverpool,Midfielder,849,13,1,0,105.5,united kingdom
+Robertson,Liverpool,Defender,826,10,0,2,97.7,united kingdom
+Mané,Liverpool,Midfielder,822,13,5,1,100.3,united kingdom
+Van Dijk,Liverpool,Defender,810,9,0,1,82.8,united kingdom
+Alexander-Arnold,Liverpool,Defender,794,9,0,4,86.8,united kingdom
+Konaté,Liverpool,Defender,720,8,2,0,78.5,united kingdom
+Henderson,Liverpool,Midfielder,666,12,1,2,85.7,united kingdom
+Matip,Liverpool,Defender,630,7,0,0,66.2,united kingdom
+Thiago Alcántara,Liverpool,Midfielder,604,10,1,0,77.9,united kingdom
+Diogo Jota,Liverpool,Forward,578,11,1,1,73.9,united kingdom
+Keïta,Liverpool,Midfielder,487,10,1,2,61.5,united kingdom
+Luis Díaz,Liverpool,Forward,385,7,2,1,49.9,united kingdom
+Tsimikas,Liverpool,Defender,344,5,0,2,42.7,united kingdom
+Firmino,Liverpool,Midfielder,323,7,5,0,43,united kingdom
+Oxlade-Chamberlain,Liverpool,Midfielder,300,6,0,1,38.6,united kingdom
+Gomez,Liverpool,Defender,245,7,0,0,30.4,united kingdom
+Minamino,Liverpool,Forward,215,4,0,0,29.7,united kingdom
+Milner,Liverpool,Midfielder,211,8,0,1,32,united kingdom
+Origi,Liverpool,Forward,187,7,1,1,23.8,united kingdom
+Jones,Liverpool,Midfielder,185,4,0,2,27.1,united kingdom
+N. Williams,Liverpool,Defender,180,3,0,0,23.5,united kingdom
+Morton,Liverpool,Midfielder,180,2,0,0,23.5,united kingdom
+Phillips,Liverpool,Defender,91,2,0,0,11.2,united kingdom
+Elliott,Liverpool,Midfielder,59,1,0,0,7.9,united kingdom
+Woltman,Liverpool,Midfielder,1,1,0,0,0.4,united kingdom
+Bradley,Liverpool,Midfielder,1,1,0,0,0.4,united kingdom
+Reinildo,LOSC,Defender,816,10,0,0,88.8,France
+Fonte,LOSC,Defender,720,8,0,0,81.3,France
+David,LOSC,Forward,679,8,3,0,86.1,France
+André,LOSC,Midfielder,630,7,0,0,80,France
+Zeki Çelik,LOSC,Defender,591,7,0,1,71.3,France
+Grbić,LOSC,Goalkeeper,540,6,0,0,31.9,France
+Tiago Djaló,LOSC,Defender,533,7,0,0,60.5,France
+Burak Yılmaz,LOSC,Forward,529,7,3,0,56.2,France
+Bamba,LOSC,Forward,468,6,0,0,58.2,France
+Xeka,LOSC,Midfielder,435,7,0,0,54.1,France
+Botman,LOSC,Defender,418,5,0,0,47.4,France
+Renato Sanches,LOSC,Midfielder,407,5,0,0,49.2,France
+Ikoné,LOSC,Midfielder,297,5,1,2,35.3,France
+Onana,LOSC,Midfielder,257,8,0,0,34.9,France
+Weah,LOSC,Forward,255,5,0,0,29.4,France
+Gudmundsson,LOSC,Defender,243,4,0,0,29.1,France
+Leo Jardim,LOSC,Goalkeeper,180,2,0,0,11.1,France
+Gomes,LOSC,Midfielder,168,4,1,1,19.7,France
+Yusuf Yazıcı,LOSC,Midfielder,47,4,0,0,8.7,France
+Lihadji,LOSC,Forward,23,3,0,0,4.5,France
+Ben Arfa,LOSC,Midfielder,22,2,0,0,3.6,France
+Bradarić,LOSC,Defender,13,1,0,0,2,France
+Zhegrova,LOSC,Midfielder,9,1,0,0,1.9,France
+Čolak,Malmö,Forward,500,6,0,0,63,sweeden
+Innocent,Malmö,Midfielder,496,6,0,0,60.1,sweeden
+L. Nielsen,Malmö,Defender,450,5,0,0,49.1,sweeden
+Brorsson,Malmö,Defender,448,5,0,0,49.9,sweeden
+Berget,Malmö,Midfielder,438,5,0,0,53,sweeden
+Ahmedhodžić,Malmö,Defender,413,5,0,0,46.3,sweeden
+Birmančević,Malmö,Midfielder,356,6,0,1,44.6,sweeden
+Christiansen,Malmö,Midfielder,328,4,0,0,41.9,sweeden
+Dahlin,Malmö,Goalkeeper,315,4,0,0,14.2,sweeden
+M. Olsson,Malmö,Defender,284,6,0,0,34.5,sweeden
+Peña,Malmö,Midfielder,281,5,0,0,32.5,sweeden
+Larsson,Malmö,Defender,275,4,0,0,32,sweeden
+Rakip,Malmö,Midfielder,273,6,0,0,35.9,sweeden
+Diawara,Malmö,Goalkeeper,225,3,0,0,11.1,sweeden
+Rieks,Malmö,Midfielder,222,3,1,0,27.8,sweeden
+Moisander,Malmö,Defender,187,3,0,0,22,sweeden
+Lewicki,Malmö,Midfielder,123,2,0,0,14.6,sweeden
+Abubakari,Malmö,Forward,116,4,0,0,15.3,sweeden
+Nanasi,Malmö,Midfielder,89,2,0,0,12.4,sweeden
+Nalić,Malmö,Midfielder,83,5,0,0,13.6,sweeden
+Eile,Malmö,Defender,3,1,0,0,0.8,sweeden
+Ederson,Man. City,Goalkeeper,1003,11,0,0,51.6,united kingdom
+Mahrez,Man. City,Midfielder,986,12,7,2,120.1,united kingdom
+Bernardo Silva,Man. City,Midfielder,878,11,3,3,120.3,united kingdom
+Rodri,Man. City,Midfielder,842,10,0,0,114.6,united kingdom
+João Cancelo,Man. City,Defender,840,9,2,3,100.3,united kingdom
+Laporte,Man. City,Defender,794,9,0,0,90.9,united kingdom
+De Bruyne,Man. City,Midfielder,734,10,2,4,95.5,united kingdom
+Rúben Dias,Man. City,Defender,664,8,0,0,83.1,united kingdom
+Gündoğan,Man. City,Midfielder,660,10,0,2,86.4,united kingdom
+Foden,Man. City,Midfielder,658,11,3,2,89.1,united kingdom
+Stones,Man. City,Defender,637,8,0,0,73.2,united kingdom
+Sterling,Man. City,Forward,581,12,3,2,71.1,united kingdom
+Walker,Man. City,Defender,577,7,1,0,64.1,united kingdom
+Zinchenko,Man. City,Defender,501,8,0,1,64.4,united kingdom
+Grealish,Man. City,Midfielder,461,7,1,1,57.1,united kingdom
+Jesus,Man. City,Forward,352,8,4,1,41.9,united kingdom
+Fernandinho,Man. City,Midfielder,347,8,0,2,44.7,united kingdom
+Aké,Man. City,Defender,324,6,1,0,36.9,united kingdom
+Egan-Riley,Man. City,Defender,90,1,0,0,10.8,united kingdom
+Steffen,Man. City,Goalkeeper,90,1,0,0,4,united kingdom
+Ferran Torres,Man. City,Forward,71,1,0,0,8.1,united kingdom
+McAtee,Man. City,Midfielder,45,1,0,0,6.2,united kingdom
+Palmer,Man. City,Midfielder,40,3,1,0,7,united kingdom
+Carson,Man. City,Goalkeeper,17,1,0,0,1.1,united kingdom
+Delap,Man. City,Forward,6,1,0,0,1.2,united kingdom
+Mbete,Man. City,Defender,6,1,0,0,1.1,united kingdom
+De Gea,Man. United,Goalkeeper,630,7,0,0,26.4,united kingdom
+Ronaldo,Man. United,Forward,611,7,6,0,59.2,united kingdom
+Maguire,Man. United,Defender,534,6,1,0,49.3,united kingdom
+Bruno Fernandes,Man. United,Midfielder,520,7,0,7,58.4,united kingdom
+Fred,Man. United,Midfielder,433,6,0,0,43.4,united kingdom
+Lindelöf,Man. United,Defender,426,5,0,0,37.8,united kingdom
+Wan-Bissaka,Man. United,Defender,419,6,0,0,45.9,united kingdom
+McTominay,Man. United,Midfielder,400,5,0,0,53.8,united kingdom
+Shaw,Man. United,Defender,397,5,0,2,36.6,united kingdom
+Sancho,Man. United,Midfielder,393,7,1,0,42,united kingdom
+Varane,Man. United,Defender,353,5,0,0,34.2,united kingdom
+Pogba,Man. United,Midfielder,347,6,0,0,30.9,united kingdom
+Greenwood,Man. United,Forward,304,4,1,1,38.1,united kingdom
+Alex Telles,Man. United,Defender,293,4,1,0,33.5,united kingdom
+Rashford,Man. United,Forward,257,5,1,0,29.5,united kingdom
+Dalot,Man. United,Defender,233,3,0,0,21,united kingdom
+Van de Beek,Man. United,Midfielder,204,4,0,0,23.5,united kingdom
+Matić,Man. United,Midfielder,194,8,0,0,24.6,united kingdom
+Bailly,Man. United,Defender,180,2,0,0,18.8,united kingdom
+Elanga,Man. United,Forward,172,3,1,0,23,united kingdom
+Lingard,Man. United,Midfielder,116,4,0,1,14,united kingdom
+Mata,Man. United,Midfielder,96,3,0,0,13.2,united kingdom
+Cavani,Man. United,Forward,75,4,0,0,11.7,united kingdom
+Diallo,Man. United,Midfielder,68,1,0,0,8.3,united kingdom
+Henderson,Man. United,Goalkeeper,68,1,0,0,4.4,united kingdom
+Martial,Man. United,Forward,67,2,0,0,7.1,united kingdom
+Mengi,Man. United,Defender,29,1,0,0,3.7,united kingdom
+Shoretire,Man. United,Midfielder,22,1,0,0,3.3,united kingdom
+Heaton,Man. United,Goalkeeper,22,1,0,0,1.9,united kingdom
+Savage,Man. United,Midfielder,1,1,0,0,1,united kingdom
+Iqbal,Man. United,Midfielder,1,1,0,0,1,united kingdom
+T. Hernández,Milan,Defender,450,5,0,1,51.4,italy
+Saelemaekers,Milan,Midfielder,444,6,0,0,57.3,italy
+Tomori,Milan,Defender,418,5,1,0,45.4,italy
+Romagnoli,Milan,Defender,392,5,0,0,44.7,italy
+Bennacer,Milan,Midfielder,376,6,0,0,47.1,italy
+Brahim Díaz,Milan,Midfielder,351,5,1,1,43.9,italy
+Tonali,Milan,Midfielder,333,6,0,0,44.4,italy
+Kessié,Milan,Midfielder,321,5,0,1,41.2,italy
+Calabria,Milan,Defender,315,4,0,0,38.5,italy
+Rafael Leão,Milan,Forward,294,4,1,1,32.4,italy
+Kjær,Milan,Defender,270,3,0,0,28.6,italy
+Tătăruşanu,Milan,Goalkeeper,270,3,0,0,18.6,italy
+Maignan,Milan,Goalkeeper,270,3,0,0,18.3,italy
+Giroud,Milan,Forward,261,5,0,0,29,italy
+Krunić,Milan,Midfielder,252,4,0,0,30.6,italy
+Kalulu,Milan,Defender,216,5,0,1,26.6,italy
+Ibrahimović,Milan,Forward,160,4,0,0,16.4,italy
+Rebić,Milan,Forward,117,2,1,0,13,italy
+Messias Junior,Milan,Forward,115,2,1,0,15.6,italy
+Ballo,Milan,Defender,91,2,0,0,11.6,italy
+Florenzi,Milan,Defender,88,4,0,0,12.6,italy
+Bakayoko,Milan,Defender,56,3,0,0,8.1,italy
+Maldini,Milan,Forward,20,3,0,0,4.2,italy
+Marquinhos,Paris,Defender,720,8,0,1,78.5,France
+Hakimi,Paris,Defender,718,8,0,0,85.3,France
+Mbappé,Paris,Forward,673,8,6,4,65.2,France
+Messi,Paris,Forward,630,7,5,0,58.7,France
+Kimpembe,Paris,Defender,630,7,0,0,64.4,France
+Nuno Mendes,Paris,Defender,581,8,0,0,62.2,France
+Neymar,Paris,Forward,468,6,0,1,55.6,France
+Donnarumma,Paris,Goalkeeper,450,5,0,0,27.5,France
+Verratti,Paris,Midfielder,431,5,0,0,55.7,France
+Gueye,Paris,Midfielder,400,7,1,0,48.1,France
+Danilo,Paris,Midfielder,362,7,0,0,40.6,France
+Herrera,Paris,Midfielder,326,6,1,0,44.3,France
+Paredes,Paris,Midfielder,315,5,0,0,36.9,France
+Navas,Paris,Goalkeeper,270,3,0,0,13.7,France
+Wijnaldum,Paris,Midfielder,261,5,2,0,31.6,France
+Di María,Paris,Forward,260,5,0,1,32.1,France
+Diallo,Paris,Defender,165,2,0,0,17.9,France
+Draxler,Paris,Forward,136,3,0,0,15.1,France
+Kehrer,Paris,Defender,70,4,0,0,8.3,France
+Icardi,Paris,Forward,47,3,0,0,6.5,France
+Dina Ebimbe,Paris,Midfielder,7,1,0,0,1.2,France
+Diogo Costa,Porto,Goalkeeper,540,6,0,0,31.7,Portugal
+Taremi,Porto,Forward,494,6,1,1,60.6,Portugal
+Otávio,Porto,Midfielder,450,6,0,0,53.8,Portugal
+Mbemba,Porto,Defender,450,5,0,0,46.5,Portugal
+Zaidu,Porto,Defender,389,6,0,0,45.9,Portugal
+João Mário,Porto,Forward,351,4,0,0,39.3,Portugal
+Pepe,Porto,Defender,349,5,0,0,39.8,Portugal
+Grujić,Porto,Midfielder,320,6,0,1,40.9,Portugal
+Evanilson,Porto,Forward,313,4,0,0,34.9,Portugal
+Sérgio Oliveira,Porto,Midfielder,300,6,1,0,39.7,Portugal
+Uribe,Porto,Midfielder,289,4,0,0,36.8,Portugal
+Vitinha,Porto,Midfielder,218,6,0,0,31.1,Portugal
+Corona,Porto,Forward,212,4,0,0,28,Portugal
+Fábio Cardoso,Porto,Defender,155,2,0,0,18.7,Portugal
+Toni Martínez,Porto,Forward,144,6,0,0,19.6,Portugal
+Wendell,Porto,Defender,131,4,0,0,16,Portugal
+Marcano,Porto,Defender,126,2,0,0,14.8,Portugal
+Fábio Vieira,Porto,Midfielder,85,2,0,1,11,Portugal
+Francisco Conceição,Porto,Forward,37,2,0,0,5.4,Portugal
+Pepê,Porto,Forward,34,3,0,0,5.7,Portugal
+Bruno Costa,Porto,Midfielder,11,1,0,0,2,Portugal
+Courtois,Real Madrid,Goalkeeper,1230,13,0,0,64.2,Spain
+Vinícius Júnior,Real Madrid,Forward,1199,13,4,6,133,Spain
+Benzema,Real Madrid,Forward,1106,12,15,1,121.5,Spain
+Modrić,Real Madrid,Midfielder,1077,13,0,4,124.5,Spain
+Éder Militão,Real Madrid,Defender,1076,12,0,0,110.4,Spain
+Alaba,Real Madrid,Defender,1040,12,1,0,112.3,Spain
+Carvajal,Real Madrid,Defender,959,11,0,1,112.8,Spain
+Casemiro,Real Madrid,Midfielder,914,11,0,0,107.6,Spain
+Kroos,Real Madrid,Midfielder,902,12,2,0,116.5,Spain
+Mendy,Real Madrid,Defender,867,10,0,2,96.3,Spain
+Valverde,Real Madrid,Midfielder,804,11,0,1,96.7,Spain
+Nacho,Real Madrid,Defender,574,9,0,0,61.9,Spain
+Rodrygo,Real Madrid,Forward,505,11,5,2,65.7,Spain
+Lucas Vázquez,Real Madrid,Midfielder,349,8,0,1,47.4,Spain
+Camavinga,Real Madrid,Midfielder,296,10,0,1,40.2,Spain
+Asensio,Real Madrid,Forward,207,8,1,2,28.4,Spain
+Jović,Real Madrid,Forward,113,3,0,0,12.9,Spain
+Marcelo,Real Madrid,Defender,93,3,0,0,10.7,Spain
+E. Hazard,Real Madrid,Forward,84,3,0,0,10.8,Spain
+Miguel Gutiérrez,Real Madrid,Defender,66,1,0,0,7.7,Spain
+Ceballos,Real Madrid,Midfielder,37,5,0,0,7.8,Spain
+Mariano Díaz,Real Madrid,Forward,12,1,0,0,1.6,Spain
+Vallejo,Real Madrid,Defender,8,2,0,0,1.5,Spain
+Bale,Real Madrid,Forward,7,2,0,0,2.2,Spain
+Blanco,Real Madrid,Midfielder,6,1,0,0,1.3,Spain
+Kristensen,Salzburg,Defender,720,8,0,1,85.5,austria
+Köhn,Salzburg,Goalkeeper,720,8,0,0,43.8,austria
+Ulmer,Salzburg,Defender,716,8,0,0,84.2,austria
+Aaronson,Salzburg,Midfielder,715,8,0,2,103.5,austria
+Camara,Salzburg,Midfielder,672,8,0,0,80.9,austria
+Seiwald,Salzburg,Midfielder,649,8,0,1,85.3,austria
+Adeyemi,Salzburg,Forward,607,8,3,1,69.2,austria
+Wöber,Salzburg,Defender,573,7,1,0,66.5,austria
+Sučić,Salzburg,Midfielder,516,8,1,0,65.4,austria
+Onguéné,Salzburg,Defender,437,5,0,0,48.3,austria
+Okafor,Salzburg,Midfielder,345,6,3,0,40,austria
+Solet,Salzburg,Defender,328,5,0,0,38.9,austria
+Capaldo,Salzburg,Midfielder,281,7,0,0,36.9,austria
+Šeško,Salzburg,Forward,234,6,0,0,32.1,austria
+Adamu,Salzburg,Forward,231,8,1,0,32.6,austria
+Piątkowski,Salzburg,Defender,84,2,0,0,9.8,austria
+Kjærgaard,Salzburg,Midfielder,38,4,1,0,7.9,austria
+Bernardo,Salzburg,Defender,23,2,0,1,4.2,austria
+Tijani,Salzburg,Midfielder,23,1,0,0,3.1,austria
+Šimić,Salzburg,Forward,4,1,0,0,1.3,austria
+Guindo,Salzburg,Defender,4,1,0,0,1.2,austria
+Fernando,Sevilla,Midfielder,540,6,0,0,66.6,Spain
+Bounou,Sevilla,Goalkeeper,540,6,0,0,37.2,Spain
+Diego Carlos,Sevilla,Defender,539,6,0,0,58.7,Spain
+Ocampos,Sevilla,Midfielder,463,6,1,1,50.6,Spain
+Koundé,Sevilla,Defender,450,5,0,0,53.2,Spain
+Acuña,Sevilla,Defender,379,5,0,0,43.2,Spain
+Jesús Navas,Sevilla,Defender,332,4,0,0,40,Spain
+Jordán,Sevilla,Midfielder,327,6,1,0,43.3,Spain
+Gómez,Sevilla,Forward,322,5,0,0,36.7,Spain
+Rakitić,Sevilla,Midfielder,276,5,2,1,36.4,Spain
+Rafa Mir,Sevilla,Forward,271,6,1,1,36.4,Spain
+Suso,Sevilla,Forward,228,4,0,0,25.2,Spain
+Munir,Sevilla,Forward,204,4,0,0,26.4,Spain
+Delaney,Sevilla,Midfielder,200,4,0,0,28.1,Spain
+Montiel,Sevilla,Defender,186,4,0,0,24.9,Spain
+Óliver Torres,Sevilla,Midfielder,168,4,0,0,25.8,Spain
+Rekik,Sevilla,Defender,125,4,0,0,15.1,Spain
+Lamela,Sevilla,Midfielder,119,4,0,0,17.6,Spain
+En-Nesyri,Sevilla,Forward,83,2,0,0,10.2,Spain
+Augustinsson,Sevilla,Defender,80,3,0,0,11.1,Spain
+Óscar Rodríguez,Sevilla,Midfielder,22,1,0,0,3.8,Spain
+Iván Romero,Sevilla,Forward,20,1,0,0,2.7,Spain
+Dodô,Shakhtar Donetsk,Defender,540,6,0,0,64.5,ukraine
+Maycon,Shakhtar Donetsk,Midfielder,473,6,0,0,62.9,ukraine
+Marlon,Shakhtar Donetsk,Defender,450,5,0,0,48.8,ukraine
+Tetê,Shakhtar Donetsk,Forward,373,6,0,0,44.5,ukraine
+Matviyenko,Shakhtar Donetsk,Defender,360,4,0,0,43,ukraine
+Ismaily,Shakhtar Donetsk,Defender,355,5,0,0,44.8,ukraine
+Fernando,Shakhtar Donetsk,Midfielder,350,5,2,0,34.8,ukraine
+Pedrinho,Shakhtar Donetsk,Midfielder,343,4,0,0,40.9,ukraine
+Solomon,Shakhtar Donetsk,Midfielder,322,5,0,0,42.3,ukraine
+Trubin,Shakhtar Donetsk,Goalkeeper,270,3,0,0,15.5,ukraine
+Alan Patrick,Shakhtar Donetsk,Midfielder,268,4,0,1,37.1,ukraine
+Pyatov,Shakhtar Donetsk,Goalkeeper,266,3,0,0,14.2,ukraine
+Marcos Antônio,Shakhtar Donetsk,Midfielder,256,5,0,0,36.1,ukraine
+Stepanenko,Shakhtar Donetsk,Midfielder,225,4,0,0,30.6,ukraine
+Marlos,Shakhtar Donetsk,Midfielder,206,6,0,0,25.4,ukraine
+Kryvtsov,Shakhtar Donetsk,Defender,192,3,0,1,23.5,ukraine
+Mudryk,Shakhtar Donetsk,Midfielder,179,6,0,0,24.2,ukraine
+Traoré,Shakhtar Donetsk,Forward,101,2,0,0,10.5,ukraine
+Bondar,Shakhtar Donetsk,Defender,90,1,0,0,10.2,ukraine
+Vitão,Shakhtar Donetsk,Defender,90,1,0,0,9.4,ukraine
+Bondarenko,Shakhtar Donetsk,Midfielder,84,2,0,0,11.8,ukraine
+Korniienko,Shakhtar Donetsk,Defender,83,2,0,0,11.2,ukraine
+Sudakov,Shakhtar Donetsk,Midfielder,56,2,0,0,8.3,ukraine
+Dentinho,Shakhtar Donetsk,Midfielder,4,1,0,0,1,ukraine
+Shevchenko,Shakhtar Donetsk,Goalkeeper,4,1,0,0,0.5,ukraine
+S. Thill,Sheriff,Midfielder,540,6,2,1,76.8,moldova
+Cristiano,Sheriff,Defender,540,6,0,3,63.2,moldova
+Fernando Costanza,Sheriff,Defender,540,6,0,0,64.6,moldova
+Arboleda,Sheriff,Defender,540,6,0,0,53.3,moldova
+Dulanto,Sheriff,Defender,540,6,0,0,53,moldova
+Traore,Sheriff,Midfielder,530,6,2,1,64.4,moldova
+Addo,Sheriff,Midfielder,491,6,0,0,59.7,moldova
+Athanasiadis,Sheriff,Goalkeeper,450,5,0,0,22.7,moldova
+Kolovos,Sheriff,Midfielder,405,6,0,0,49.3,moldova
+Castañeda,Sheriff,Midfielder,357,5,0,0,45.5,moldova
+Bruno,Sheriff,Midfielder,312,6,0,0,38.5,moldova
+Yakhshiboev,Sheriff,Forward,205,3,1,0,27.9,moldova
+Yansané,Sheriff,Forward,156,3,1,0,21.6,moldova
+Nikolov,Sheriff,Midfielder,97,5,1,0,14.6,moldova
+Celeadnic,Sheriff,Goalkeeper,90,1,0,0,4.7,moldova
+Radeljić,Sheriff,Defender,79,3,0,0,10.2,moldova
+Julien,Sheriff,Defender,52,3,0,0,7.2,moldova
+Cojocaru,Sheriff,Midfielder,15,2,0,0,3.6,moldova
+Cojocari,Sheriff,Defender,1,1,0,0,0.5,moldova
+Adán,Sporting CP,Goalkeeper,630,7,0,0,36.3,Portugal
+Matheus Reis,Sporting CP,Defender,611,8,0,0,75.3,Portugal
+Paulinho,Sporting CP,Forward,582,8,3,1,68.2,Portugal
+Gonçalo Inácio,Sporting CP,Defender,561,7,0,1,60.7,Portugal
+Coates,Sporting CP,Defender,540,6,2,0,50.9,Portugal
+João Palhinha,Sporting CP,Midfielder,534,6,0,0,66.4,Portugal
+Pedro Porro,Sporting CP,Defender,529,7,1,0,60.9,Portugal
+Sarabia,Sporting CP,Forward,510,8,2,0,66.6,Portugal
+Matheus Nunes,Sporting CP,Midfielder,509,6,0,2,64.3,Portugal
+Feddal,Sporting CP,Defender,450,6,0,0,49.2,Portugal
+Ricardo Esgaio,Sporting CP,Defender,380,8,0,2,48.8,Portugal
+Luís Neto,Sporting CP,Defender,368,6,0,0,38.6,Portugal
+Pedro Gonçalves,Sporting CP,Midfielder,329,5,4,2,41.3,Portugal
+Nuno Santos,Sporting CP,Forward,218,7,1,0,28.9,Portugal
+Ugarte,Sporting CP,Midfielder,205,4,0,0,29.6,Portugal
+Bruno Tabata,Sporting CP,Midfielder,201,4,1,1,28.3,Portugal
+Tiago Tomás,Sporting CP,Forward,162,5,0,0,22.1,Portugal
+Daniel Bragança,Sporting CP,Midfielder,131,5,0,0,18.9,Portugal
+Slimani,Sporting CP,Forward,104,2,0,0,12.4,Portugal
+João Virginia,Sporting CP,Goalkeeper,90,1,0,0,5.4,Portugal
+Jovane Cabral,Sporting CP,Forward,79,3,0,0,9.8,Portugal
+Esteves,Sporting CP,Defender,73,1,0,0,8.4,Portugal
+Rúben Vinagre,Sporting CP,Defender,63,2,0,0,7.8,Portugal
+Edwards,Sporting CP,Forward,32,1,0,0,4,Portugal
+Flávio Nazinho,Sporting CP,Defender,19,2,0,0,4,Portugal
+Dário Essugo,Sporting CP,Midfielder,9,1,0,0,1.8,Portugal
+Rodrigo Ribeiro,Sporting CP,Forward,1,1,0,0,0.7,Portugal
+Pau Torres,Villarreal,Defender,1080,12,1,0,124.2,Spain
+Rulli,Villarreal,Goalkeeper,1080,12,0,0,61.2,Spain
+Parejo,Villarreal,Midfielder,1055,12,1,3,130.9,Spain
+Capoue,Villarreal,Midfielder,1046,12,2,4,130.9,Spain
+Albiol,Villarreal,Defender,1045,12,0,0,115.7,Spain
+Danjuma,Villarreal,Midfielder,906,11,6,2,107.8,Spain
+Foyth,Villarreal,Defender,891,10,0,0,98.7,Spain
+Estupiñán,Villarreal,Defender,645,10,0,0,76.4,Spain
+Gerard Moreno,Villarreal,Forward,524,7,2,4,65.7,Spain
+Lo Celso,Villarreal,Midfielder,524,6,0,0,68.4,Spain
+Coquelin,Villarreal,Midfielder,463,8,1,0,57.6,Spain
+Pedraza,Villarreal,Midfielder,431,10,0,1,55.3,Spain
+Pino,Villarreal,Forward,431,7,1,0,54.7,Spain
+Trigueros,Villarreal,Midfielder,330,9,1,0,42.9,Spain
+Moreno,Villarreal,Defender,309,7,1,0,41.7,Spain
+Chukwueze,Villarreal,Midfielder,273,9,2,0,37,Spain
+Dia,Villarreal,Forward,258,8,1,0,33.3,Spain
+Moi Gómez,Villarreal,Midfielder,222,6,0,1,32,Spain
+Aurier,Villarreal,Defender,129,5,0,1,15.9,Spain
+Mario Gaspar,Villarreal,Defender,93,2,0,0,10.8,Spain
+Alcácer,Villarreal,Forward,73,3,1,0,10,Spain
+Mandi,Villarreal,Defender,24,2,0,0,3.7,Spain
+Peña,Villarreal,Defender,18,2,0,0,3.3,Spain
+Raba,Villarreal,Midfielder,11,1,0,0,1.7,Spain
+Iborra,Villarreal,Midfielder,10,1,0,0,1.8,Spain
+Arnold,Wolfsburg,Midfielder,540,6,0,3,67.3,Germany
+Lacroix,Wolfsburg,Defender,540,6,0,0,61.3,Germany
+Casteels,Wolfsburg,Goalkeeper,450,5,0,0,30.8,Germany
+Guilavogui,Wolfsburg,Midfielder,429,5,0,0,50.5,Germany
+Baku,Wolfsburg,Midfielder,413,6,1,0,48.6,Germany
+Weghorst,Wolfsburg,Forward,398,5,0,0,49.4,Germany
+Roussillon,Wolfsburg,Defender,362,6,0,0,41.6,Germany
+Vranckx,Wolfsburg,Midfielder,337,4,0,0,41.5,Germany
+Brooks,Wolfsburg,Defender,331,4,0,0,36.3,Germany
+Mbabu,Wolfsburg,Defender,328,6,0,0,38.6,Germany
+L. Nmecha,Wolfsburg,Forward,322,5,2,0,42,Germany
+Lukebakio,Wolfsburg,Forward,296,6,0,0,35.9,Germany
+Steffen,Wolfsburg,Midfielder,258,5,2,0,31.1,Germany
+Bornauw,Wolfsburg,Defender,204,3,0,0,22.3,Germany
+Gerhardt,Wolfsburg,Midfielder,192,5,0,1,25.8,Germany
+Paulo Otávio,Wolfsburg,Defender,171,4,0,0,20.2,Germany
+Waldschmidt,Wolfsburg,Forward,119,3,0,0,15.6,Germany
+Philipp,Wolfsburg,Forward,90,2,0,0,11.1,Germany
+Pervan,Wolfsburg,Goalkeeper,90,1,0,0,5.7,Germany
+F. Nmecha,Wolfsburg,Midfielder,36,2,0,0,6.6,Germany
+Ginczek,Wolfsburg,Forward,2,1,0,0,1.1,Germany
+Moumi Ngamaleu,Young Boys,Midfielder,532,6,1,1,57.2,Switzerland
+Aebischer,Young Boys,Midfielder,504,6,0,1,53.9,Switzerland
+Elia,Young Boys,Forward,489,6,1,0,49.1,Switzerland
+Lauper,Young Boys,Midfielder,462,6,0,0,42.1,Switzerland
+Garcia,Young Boys,Defender,435,5,0,0,40.2,Switzerland
+C. Martins Pereira,Young Boys,Midfielder,420,5,0,0,44.5,Switzerland
+Hefti,Young Boys,Defender,386,6,1,1,38.8,Switzerland
+Camara,Young Boys,Defender,347,4,0,0,30.5,Switzerland
+Siebatcheu,Young Boys,Forward,341,6,2,0,35.6,Switzerland
+Rieder,Young Boys,Midfielder,272,6,1,1,38.7,Switzerland
+Faivre,Young Boys,Goalkeeper,270,3,0,0,20.5,Switzerland
+Von Ballmoos,Young Boys,Goalkeeper,270,3,0,0,12.2,Switzerland
+Fassnacht,Young Boys,Midfielder,269,3,0,0,23.3,Switzerland
+Sierro,Young Boys,Midfielder,240,5,1,0,28.5,Switzerland
+Bürgy,Young Boys,Defender,180,2,0,0,21.4,Switzerland
+Lefort,Young Boys,Defender,167,3,0,0,21.1,Switzerland
+Maceiras,Young Boys,Defender,113,3,0,0,16,Switzerland
+Lustenberger,Young Boys,Defender,90,1,0,0,10.2,Switzerland
+Kanga,Young Boys,Forward,75,5,0,0,10.1,Switzerland
+Mambimbi,Young Boys,Forward,60,4,0,0,9.4,Switzerland
+Spielmann,Young Boys,Midfielder,8,1,0,0,1.5,Switzerland
+Sulejmani,Young Boys,Midfielder,7,1,0,0,-,Switzerland
+Maier,Young Boys,Midfielder,3,1,0,0,1.3,Switzerland
+Zesiger,Young Boys,Defender,1,1,0,0,-,Switzerland
+Barrios,Zenit,Midfielder,540,6,0,0,61.5,Rusia
+Rakitskyy,Zenit,Defender,497,6,1,2,52.3,Rusia
+Wendel,Zenit,Midfielder,484,6,1,0,59.1,Rusia
+Claudinho,Zenit,Midfielder,460,6,2,0,55.8,Rusia
+Douglas Santos,Zenit,Defender,444,5,0,2,50.5,Rusia
+Chistiakov,Zenit,Defender,444,5,0,0,50.8,Rusia
+Malcom,Zenit,Forward,434,6,0,1,48.6,Rusia
+Kritsyuk,Zenit,Goalkeeper,360,4,0,0,19.5,Rusia
+Lovren,Zenit,Defender,315,4,0,0,34.7,Rusia
+Azmoun,Zenit,Forward,303,5,2,1,30.3,Rusia
+Karavaev,Zenit,Defender,299,4,0,1,38.3,Rusia
+Sutormin,Zenit,Midfielder,293,4,1,0,34.3,Rusia
+Dzyuba,Zenit,Forward,277,6,0,1,31.2,Rusia
+Kuzyaev,Zenit,Midfielder,257,4,1,0,31.7,Rusia
+M. Kerzhakov,Zenit,Goalkeeper,180,2,0,0,10.6,Rusia
+Mostovoy,Zenit,Midfielder,150,5,0,0,20.9,Rusia
+Erokhin,Zenit,Midfielder,104,6,0,0,15.7,Rusia
+Krugovoi,Zenit,Defender,68,6,0,0,11.8,Rusia
+Kravtsov,Zenit,Midfielder,14,2,0,0,3,Rusia
+Ozdoev,Zenit,Midfielder,11,1,1,0,2.2,Rusia
+Kuznetsov,Zenit,Forward,3,1,0,0,0.9,Rusia
